@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Lam. I'm a second-year Bachelor of Data Science student. Seeking hands-on working experience and apply classroom knowledge to
+Hello, my name is Lam. I'm a fresh graduate from Bachelor of Data Science. Seeking hands-on working experience and apply classroom knowledge to
 real-world problems. 
 ### 🐱‍👤My skills:
 - Data cleaning, analyzing, and
