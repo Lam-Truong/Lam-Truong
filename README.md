@@ -16,6 +16,7 @@ Welcome to my portfolio where I showcase my projects
 
 ### Connect with me
 [kaggle](https://www.kaggle.com/trienlamtruong)
+
 [linkedin](https://www.linkedin.com/in/trien-lam-truong/)
 
 
